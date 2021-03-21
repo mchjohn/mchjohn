@@ -117,4 +117,14 @@ Olá ✌️, meu nome é Michel John (sim, meu pai é fã dos Beatles e meu irm�
 
 <hr>
 
+<h4 align="center">
+	Porque não temos aqui cidade permanente, mas buscamos a vindoura.
+</h4>
+<h5 align="center">
+	Hebreus 13:14.
+</h5>
+
+<hr>
+<br>
+
 <h3>Obrigado por visitar meu perfil!! 😊</h3>
