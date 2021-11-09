@@ -9,65 +9,65 @@ Olá ✌️, meu nome é Michel John (sim, meu pai é fã dos Beatles e meu irm�
 
 <hr/>
 
-## Minhas Skills
+## Pricipais skills
 
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      <td width="5%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+        <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      <td width="5%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br>
+        <img height="40px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="5%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="5%" align="center">
         <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        </span><br><br>
+        <img height="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="5%" align="center">
         <span><strong>ReactNative</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        </span><br><br>
+        <img height="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
-      <td width="25%" align="center">
+      <td width="5%" align="center">
         <span><strong>NodeJs</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        </span><br><br>
+        <img height="40px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      <td width="5%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br>
+        <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      <td width="5%" align="center">
+        <span><strong>Typescript</strong></span><br><br>
+        <img height="40px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Express</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+      <td width="5%" align="center">
+        <span><strong>Express</strong></span><br><br>
+        <img height="40px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+      <td width="5%" align="center">
+        <span><strong>Java</strong></span><br><br>
+        <img height="40px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      <td width="5%" align="center">
+        <span><strong>MySql</strong></span><br><br>
+        <img height="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>MongoDB</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      <td width="5%" align="center">
+        <span><strong>MongoDB</strong></span><br><br>
+        <img height="40px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
     </tr>
   </tbody>
