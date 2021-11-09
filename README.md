@@ -9,7 +9,7 @@ Olá ✌️, meu nome é Michel John (sim, meu pai é fã dos Beatles e meu irm�
 
 <hr/>
 
-## Pricipais skills
+## Principais skills
 
 <table>
   <tbody>
