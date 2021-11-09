@@ -3,8 +3,6 @@
 
 </h2>
 
-## Sobre mim
-
 Olá ✌️, meu nome é Michel John (sim, meu pai é fã dos Beatles e meu irmão se chama... você já sabe 😂), estudante do 7° período de Sistema de Informação 👨‍🎓, servo de Deus 🛐, fissurado por skateboard 🛹. Um entusiasta de tecnologia, apaixonado por codar 👨‍💻. Ansioso por aprender novas habilidades e adicioná-las à lista 🧙‍♂.
 
 <hr/>
