@@ -1,9 +1,8 @@
-
-## Olá<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Eu sou [Michel John](https://mchjohn.github.io/mchljohn/) !!
-
-</h2>
-
-Olá ✌️, meu nome é Michel John (sim, meu pai é fã dos Beatles e meu irmão se chama... você já sabe 😂), estudante do 7° período de Sistema de Informação 👨‍🎓, servo de Deus 🛐, fissurado por skateboard 🛹. Um entusiasta de tecnologia, apaixonado por codar 👨‍💻. Ansioso por aprender novas habilidades e adicioná-las à lista 🧙‍♂.
+<b /> Servo de Deus 🛐
+<br />
+<b /> Skatista 🛹
+<br />
+<b /> Fissurado por `<codar />` 💻
 
 <hr/>
 
