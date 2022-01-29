@@ -76,15 +76,12 @@
 
   <!-- https://img.shields.io/badge/Github-Michel John%20Patel-black&?style=social&logo=Github -->
 
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/micheljohn/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/mchjohn">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
+<div align="center">
+  <hr>
+<a href = "mailto:michel.john@hotmail.com"><img src="https://img.shields.io/badge/-OutLook-%230077B5?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/micheljohn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://mchjohn.github.io/mchljohn/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%231E1E26?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+</div>
   
   <br/>
   <h2 align="center">Status do Github:</h2>
@@ -120,6 +117,3 @@
 </h5>
 
 <hr>
-<br>
-
-<h3>Obrigado por visitar meu perfil!! 😊</h3>
