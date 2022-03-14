@@ -6,7 +6,7 @@
 
 <hr/>
 
-## Principais skills
+## Tecnologias
 
 <table>
   <tbody>
