@@ -28,8 +28,8 @@
         </span><br><br>
         <img height="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
-      <td width="5%" align="center">
-        <span><strong>ReactNative</strong>
+      <td width="12%" align="center">
+        <span><strong>React Native</strong>
         </span><br><br>
         <img height="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
@@ -38,8 +38,6 @@
         </span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
-      </tr>
-      <tr>
       <td width="5%" align="center">
         <span>𝗚𝗶𝘁</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -49,20 +47,8 @@
         <img height="40px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="5%" align="center">
-        <span><strong>Express</strong></span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/express.svg">
-      </td>
-      <td width="5%" align="center">
-        <span><strong>Java</strong></span><br><br>
-        <img height="40px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      </td>
-      <td width="5%" align="center">
-        <span><strong>MySql</strong></span><br><br>
-        <img height="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="5%" align="center">
-        <span><strong>MongoDB</strong></span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <span><strong>Kotlin</strong></span><br><br>
+        <img height="40px" src="https://cdn.svgporn.com/logos/kotlin.svg">
       </td>
     </tr>
   </tbody>
@@ -94,10 +80,6 @@
 <hr>
 
 </div>
-
-<h4 align="center">Número de visitantes: 👀</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{mchjohn}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">Principais Linguagens: 👅</h4>
 
