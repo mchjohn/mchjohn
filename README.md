@@ -3,6 +3,8 @@
 <b /> Skatista 🛹
 <br />
 <b /> Fissurado por `<codar />` 💻
+<br />
+<b /> Estagiário Frontend na @Sidelab/Dataside 👨‍🎓
 
 <hr/>
 
