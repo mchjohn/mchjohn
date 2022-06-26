@@ -1,10 +1,4 @@
-<b /> Servo de Deus 🛐
-<br />
-<b /> Skatista 🛹
-<br />
-<b /> Fissurado por `<codar />` 💻
-<br />
-<b /> Estagiário Frontend na @Sidelab/Dataside 👨‍🎓
+Servo de Deus ✝️, Skatista 🛹 e Fotografo 📸 nos finais de samana, Codador Frontend por diversão.
 
 <hr/>
 
