@@ -1,18 +1,14 @@
-<p>Servo de Deus ✝️,</p>
-<p>Skatista 🛹 e Fotografo 📸 nos finais de samana,</p>
-<p>Codador Frontend por diversão.</p>
+Servo de Deus ✝️,   
+Skatista 🛹 e Fotografo 📸 nos finais de samana,   
+Codador Front-end.
 
 <hr/>
 
-Minhas ferramentas atuais:
-
-📲 Front-end Mobile com React Native
-
-🌍 Front-end Web com ReactJs
-
-🛠️ Typescript
-
-🧰 e mais...
+#### Minhas ferramentas atuais 
+📲 Front-end Mobile com React Native  
+🌎 Front-end Web com React  
+🛠️ Typescript  
+🧰 e mais...  
 
 <hr>
 
@@ -47,3 +43,4 @@ Minhas ferramentas atuais:
 </h5>
 
 <hr>
+
