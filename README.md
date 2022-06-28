@@ -1,5 +1,5 @@
 Servo de Deus ✝️,   
-Skatista 🛹 e Fotografo 📸 nos finais de samana,   
+Skate 🛹 e Fotografia 📸 por hobby nos finais de samana,   
 Codador Front-end.
 
 <hr/>
