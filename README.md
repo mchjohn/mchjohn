@@ -1,6 +1,6 @@
 Servo de Deus ✝️,   
-Skatista 🛹 e Fotografo 📸 nos finais de samana,   
-Escritor de códigos.
+Escritor de códigos,   
+Skatista 🛹 e Fotografo 📸 nos finais de samana.
 
 <hr/>
 
