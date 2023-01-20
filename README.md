@@ -4,15 +4,15 @@ Escritor de códigos.
 
 <hr/>
 
-#### Minhas ferramentas atuais 
-📲 Front-end Mobile com React Native  
-🌎 Front-end Web com React  
+#### Ferramentas atuais 
+📲 Mobile com React Native  
+🌎 Web com React  
 🛠️ Typescript  
 🧰 e mais...  
 
 <hr>
 
-💬 Nos links abaixo você pode me encontrar 👇
+💬 Encontre-me 👇
   
   <!-- https://img.shields.io/badge/Linkedin-Michel John-blue&?style=social&logo=linkedin -->
 
