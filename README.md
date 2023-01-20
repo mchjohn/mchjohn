@@ -1,6 +1,6 @@
 Servo de Deus ✝️,   
-Skate 🛹 e Fotografia 📸 por hobby nos finais de samana,   
-Codador Front-end.
+Skatista 🛹 e Fotografo 📸 nos finais de samana,   
+Escritor de códigos.
 
 <hr/>
 
