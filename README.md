@@ -10,10 +10,6 @@ Skatista 🛹 e Fotografo 📸 nos finais de samana.
 🛠️ Typescript  
 🧰 e mais...  
 
-Estudando:   
-Next.js   
-Kotlin
-
 <hr>
 
 💬 Encontre-me 👇
