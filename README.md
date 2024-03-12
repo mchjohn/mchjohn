@@ -1,13 +1,11 @@
-Servo de Deus ✝️,   
-Escritor de códigos,   
-Skatista 🛹 e Fotografo 📸 nos finais de samana.
+Desenvolvedor Frontend e Mobile
 
 <hr/>
 
 #### Ferramentas atuais 
 📲 Mobile com React Native  
 🌎 Web com React  
-🛠️ Typescript  
+🛠️ JavaScript / 🛠️ TypeScript  
 🧰 e mais...  
 
 <hr>
