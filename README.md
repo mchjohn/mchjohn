@@ -1,5 +1,4 @@
-Desenvolvedor com experiência em React e React Native.   
-Estudando backend, arquitetura, APIs, cloud, infraestrutura e IA.
+Frontend & Mobile Developer transitando para FullStack, com foco em Backend, IA e Arquitetura.
 
 <br /><br /><br /><br /><br /><br />
 
